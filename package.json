@@ -23,6 +23,10 @@
     "library"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avodevelopment/react-native-jssip.git"
+  },
   "dependencies": {
     "@types/debug": "^4.1.5",
     "@types/node": "^14.14.34",
