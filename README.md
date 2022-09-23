@@ -78,6 +78,12 @@ Want to see more? Check the full documentation at https://jssip.net/documentatio
 
 ## Authors
 
+#### React Native Fork
+
+* React Native patch publisher
+* Augusto Zanoni <augusto@nta.co.uk> (Github [@augustozanoni](https://github.com/augustozanoni))
+* Pier Guinzani <pierguinzani@gmail.com> (Github [@pierguinzani](https://github.com/pierguinzani))
+
 #### José Luis Millán
 
 * Main author. Core Designer and Developer.
