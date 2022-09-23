@@ -1,12 +1,14 @@
 {
-  "name": "jssip",
+  "name": "react-native-jssip",
   "title": "RNJsSIP",
-  "description": "the Javascript SIP library",
+  "description": "the Javascript SIP library for React Native",
   "version": "3.9.0",
   "homepage": "https://jssip.net",
   "contributors": [
     "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
-    "Iñaki Baz Castillo <ibc@aliax.net> (https://inakibaz.me)"
+    "Iñaki Baz Castillo <ibc@aliax.net> (https://inakibaz.me)",
+    "Augusto Zanoni <augusto@nta.co.uk> (https://github.com/augustozanoni)",
+    "Pier Guinzani <pierguinzani@gmail.com> (https://github.com/pierguinzani)"
   ],
   "types": "lib/JsSIP.d.ts",
   "main": "lib/JsSIP.js",
