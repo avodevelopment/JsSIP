@@ -52,7 +52,6 @@
   },
   "scripts": {
     "lint": "gulp lint",
-    "test": "gulp test",
-    "prepublishOnly": "gulp babel"
+    "test": "gulp test"
   }
 }
